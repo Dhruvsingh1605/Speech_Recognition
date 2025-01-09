@@ -1,0 +1,61 @@
+Dhruv Singh
+Data Science , Machine Learning
+/ne+91-7217861673 dhruvsingh1605@gmail.com Linkedin /gtbGithub
+ LeetCode
+ HackerRank
+EDUCATION
+Parul Institute of Engineering and Technology, Vadodara 2021 – 2025
+B.Tech - Computer Science and Engineering - CGPA -7.13 Vadodara, Gujarat
+EXPERIENCE
+Intern at Suvidha Foundation May 2024 - June 2024
+Role - Machine Learning Engineer Pune
+•Developed a new recommender system for personalized news article suggestions, leveraging advanced machine
+learning techniques .
+•Used web scraping to collect data from multiple online sources, constructing a high-quality news article dataset
+for model training and evaluation.
+•Implemented cosine similarity algorithms to calculate vector similarities, significantly improving the accuracy of
+content-based recommendations.
+•Optimized system performance through efficient data preprocessing, algorithmic fine-tuning, and scalability
+enhancements for handling large datasets.
+Intern at IndiXpert Pvt.Ltd Oct 2024 - Dec 2024
+Role - Data Science Intern Gurgaon
+•Conducted in-depth IT Business Research to support decision-making and strategy development, demonstrating a
+strong analytical approach.
+•Managed assigned tasks diligently and adhered to deadlines, showcasing strong time management and organizational
+skills.
+•Maintained a professional and positive attitude while effectively communicating progress and seeking guidance for
+complex tasks.
+•Gained practical experience by applying theoretical IT concepts to real-world business scenarios, enhancing technical
+proficiency and problem-solving abilities.
+PROJECTS
+Posture Detection Model |
+∗Deployed the PoseNet model to track real-time user postures, improving pose detection accuracy by 15% .
+∗Analyzed posture data to identify patterns and trends, refining the model’s accuracy over time.
+∗Visualized key points and connections on-screen: rendered these detected points and connected them visually, giving
+real-time feedback on the user’s posture and positioning.
+∗Optimized TensorFlow model performance, reducing lag in real-time tracking.
+∗Collaborated with cross-functional teams to integrate posture detection into an existing web application, reducing
+deployment time.
+Movie Recommendation System |
+∗Built a KNN-based model to suggest movies based on genres, resulting in a 20% increase in model’s precision .
+∗Developed a collaborative filtering algorithm that recommends movies based on user preferences, enhancing
+recommendation accuracy .
+∗Implemented advanced data preprocessing and feature engineering techniques to optimize model performance and
+scalability.
+∗Integrated the system with Streamlit for real-time movie recommendations, reducing response time.
+Style Stitch |
+∗Developed a weather-based fashion recommender system using real-time data from OpenWeather API to provide
+personalized clothing suggestions based on temperature, season, and weather conditions.
+∗Integrated a machine learning model trained on season and clothing data, deployed with Streamlit for an interactive
+user experience.
+∗Streamlined deployment workflow using Python ,Scikit-learn , and Heroku , enabling dynamic and accessible
+suggestions online.
+TECHNICAL SKILLS
+Skills: Data Science, Machine Learning, Data Analytics, Deep Learning, NLP, SQL
+Languages: Python, Java, C Programming
+Technologies/Frameworks: TensorFLow, Sci-Kit Learn, Numpy, Pandas, React, MongoDB, Javascript
+CERTIFICATIONS
+•Supervised Machine Learning - Coursera
+•Data Analytics - Python (FreeCodeCamp)
+•Python Certified - HackerRank
+•Problem Solving - HackerRank
